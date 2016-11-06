@@ -1,1 +1,1 @@
-# CHB
+# Chemical Bonding Simulator
